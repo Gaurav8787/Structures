@@ -47,6 +47,9 @@
 		F42EA37F1F7A1B7A00C492F2 /* StructuresUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StructuresUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F42EA3831F7A1B7A00C492F2 /* StructuresUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructuresUITests.swift; sourceTree = "<group>"; };
 		F42EA3851F7A1B7A00C492F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F43C07ED1F7BD0A000E422B4 /* StructurePlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StructurePlayground.playground; sourceTree = "<group>"; };
+		F4AFB7591F7BC4E200188EC4 /* ClosurePlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClosurePlayground.playground; sourceTree = "<group>"; };
+		F4AFB75A1F7BC64F00188EC4 /* enumPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = enumPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +100,15 @@
 		F42EA3621F7A1B7A00C492F2 /* Structures */ = {
 			isa = PBXGroup;
 			children = (
+				F43C07ED1F7BD0A000E422B4 /* StructurePlayground.playground */,
+				F4AFB7591F7BC4E200188EC4 /* ClosurePlayground.playground */,
 				F42EA3631F7A1B7A00C492F2 /* AppDelegate.swift */,
 				F42EA3651F7A1B7A00C492F2 /* ViewController.swift */,
 				F42EA3671F7A1B7A00C492F2 /* Main.storyboard */,
 				F42EA36A1F7A1B7A00C492F2 /* Assets.xcassets */,
 				F42EA36C1F7A1B7A00C492F2 /* LaunchScreen.storyboard */,
 				F42EA36F1F7A1B7A00C492F2 /* Info.plist */,
+				F4AFB75A1F7BC64F00188EC4 /* enumPlayground.playground */,
 			);
 			path = Structures;
 			sourceTree = "<group>";
@@ -514,6 +520,7 @@
 				F42EA38A1F7A1B7A00C492F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F42EA38B1F7A1B7A00C492F2 /* Build configuration list for PBXNativeTarget "StructuresTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +529,7 @@
 				F42EA38D1F7A1B7A00C492F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F42EA38E1F7A1B7A00C492F2 /* Build configuration list for PBXNativeTarget "StructuresUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +538,7 @@
 				F42EA3901F7A1B7A00C492F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
