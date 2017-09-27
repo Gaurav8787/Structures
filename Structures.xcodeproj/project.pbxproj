@@ -48,6 +48,7 @@
 		F42EA3831F7A1B7A00C492F2 /* StructuresUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructuresUITests.swift; sourceTree = "<group>"; };
 		F42EA3851F7A1B7A00C492F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F43C07ED1F7BD0A000E422B4 /* StructurePlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StructurePlayground.playground; sourceTree = "<group>"; };
+		F43C07EE1F7BDFAC00E422B4 /* OptinalsPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = OptinalsPlayground.playground; sourceTree = "<group>"; };
 		F4AFB7591F7BC4E200188EC4 /* ClosurePlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClosurePlayground.playground; sourceTree = "<group>"; };
 		F4AFB75A1F7BC64F00188EC4 /* enumPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = enumPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -100,6 +101,7 @@
 		F42EA3621F7A1B7A00C492F2 /* Structures */ = {
 			isa = PBXGroup;
 			children = (
+				F43C07EE1F7BDFAC00E422B4 /* OptinalsPlayground.playground */,
 				F43C07ED1F7BD0A000E422B4 /* StructurePlayground.playground */,
 				F4AFB7591F7BC4E200188EC4 /* ClosurePlayground.playground */,
 				F42EA3631F7A1B7A00C492F2 /* AppDelegate.swift */,
